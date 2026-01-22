@@ -26,19 +26,7 @@ CSS – Styling
 
 JavaScript – Game logic & DOM manipulation
 
-📂 Project Structure
-```text
-Dice-Game-HTML-CSS-JS/
-├── dicee.html
-├── styles.css
-├── index.js
-└── images/
-    ├── dice1.png
-    ├── dice2.png
-    ├── dice3.png
-    ├── dice4.png
-    ├── dice5.png
-    └── dice6.png
+
 
 🧠 How the Game Works
 
@@ -59,3 +47,17 @@ Using random numbers in JavaScript
 Updating HTML dynamically
 
 Connecting HTML, CSS, and JS
+
+📂 Project Structure
+```text
+Dice-Game-HTML-CSS-JS/
+├── dicee.html
+├── styles.css
+├── index.js
+└── images/
+    ├── dice1.png
+    ├── dice2.png
+    ├── dice3.png
+    ├── dice4.png
+    ├── dice5.png
+    └── dice6.png
