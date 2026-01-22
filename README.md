@@ -2,8 +2,7 @@
 
 A simple and interactive **Dice Game** built using pure **HTML, CSS, and JavaScript** where two players roll dice automatically on page refresh, with the winner determined instantly.
 
-## 🚀 Live Demo : 
-**[Play the Game →](https://surya62815.github.io/Dice-Game-HTML-CSS-JS/)**
+## 🚀 Live Demo : https://surya62815.github.io/Dice-Game-HTML-CSS-JS/
 
 ## ✨ Features
 - 🎲 **Random dice roll** for Player 1 and Player 2
