@@ -1,60 +1,58 @@
-🎲 Dice Game (HTML, CSS, JavaScript)
+🎲 Dice Game
+A simple and interactive Dice Game built using pure HTML, CSS, and JavaScript where two players roll dice automatically on page refresh, with the winner determined instantly.
 
-A simple and interactive Dice Game built using HTML, CSS, and JavaScript.
-On every page refresh, both players roll a dice and the winner is decided automatically.
+🚀 Live Demo
+Play the Game → https://surya62815.github.io/Dice-Game-HTML-CSS-JS/
 
-🔗 Live Demo:
-https://surya62815.github.io/Dice-Game-HTML-CSS-JS/
-
-📌 Features
-
+✨ Features
 🎲 Random dice roll for Player 1 and Player 2
 
-🔄 Game runs on page refresh
+🔄 Automatic play – runs on every page refresh
 
-🏆 Displays winner or draw
+🏆 Instant results – displays winner or draw
 
-🎨 Clean and simple UI
+🎨 Clean UI – modern and responsive design
 
-⚡ Built using pure JavaScript (no libraries)
+⚡ Pure JavaScript – no external libraries or frameworks
 
 🛠️ Technologies Used
+-->HTML – Page structure and semantics
 
-HTML – Structure
+-->CSS – Styling and responsive layout
 
-CSS – Styling
+-->JavaScript – Game logic and DOM manipulation
 
-JavaScript – Game logic & DOM manipulation
+🧠 How It Works
+-->JavaScript generates two random numbers (1–6)
+
+-->Dice images update dynamically based on the roll
+
+-->Players' scores are compared
+
+-->Winner or draw message is displayed instantly
 
 
+    
 
-🧠 How the Game Works
-
-JavaScript generates two random numbers (1–6)
-
-Dice images change based on the numbers
-
-Numbers are compared
-
-Winner or draw message is displayed
 
 📖 Learning Outcomes
+-->DOM manipulation with vanilla JavaScript
 
-DOM manipulation
+-->Random number generation for game mechanics
 
-Using random numbers in JavaScript
+-->Dynamic HTML updates without page reloads
 
-Updating HTML dynamically
+-->Integration of HTML, CSS, and JavaScript
 
-Connecting HTML, CSS, and JS
+-->Responsive design principles
 
-📂 Project Structure
-```text
+📁 Project Structure
+  ```text
 Dice-Game-HTML-CSS-JS/
-├── dicee.html
-├── styles.css
-├── index.js
-└── images/
+├── index.html          # Main HTML file
+├── styles.css          # Styling and design
+├── index.js            # Game logic and functionality
+└── images/             # Dice face images (1-6)
     ├── dice1.png
     ├── dice2.png
     ├── dice3.png
