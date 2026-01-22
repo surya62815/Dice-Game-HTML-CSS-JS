@@ -27,6 +27,7 @@ CSS – Styling
 JavaScript – Game logic & DOM manipulation
 
 📂 Project Structure
+```text
 Dice-Game-HTML-CSS-JS/
 ├── dicee.html
 ├── styles.css
