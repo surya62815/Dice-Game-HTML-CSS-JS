@@ -1,30 +1,37 @@
 🎲 Dice Game (HTML, CSS, JavaScript)
 
 A simple and interactive Dice Game built using HTML, CSS, and JavaScript.
-Every time the page is refreshed, both players roll a dice, and the winner is decided automatically.
+On every page refresh, both players roll a dice and the winner is decided automatically.
 
-🚀 Live Demo : https://surya62815.github.io/Dice-Game-HTML-CSS-JS/
+🔗 Live Demo:
+https://surya62815.github.io/Dice-Game-HTML-CSS-JS/
 
-📌 Features:
+📌 Features
+
 🎲 Random dice roll for Player 1 and Player 2
-🔄 Game updates on page refresh:
-🏆 Displays winner or draw instantly
-🎨 Clean and responsive UI
-⚡ Pure Vanilla JavaScript (no libraries)
 
-🛠️ Technologies Used:
--->HTML – Structure of the game
--->CSS – Styling and layout
--->JavaScript – Game logic & DOM manipulation
+🔄 Game runs on page refresh
 
-📂 Project Structure:
-Dice-Game-HTML-CSS-JS
-│
+🏆 Displays winner or draw
+
+🎨 Clean and simple UI
+
+⚡ Built using pure JavaScript (no libraries)
+
+🛠️ Technologies Used
+
+HTML – Structure
+
+CSS – Styling
+
+JavaScript – Game logic & DOM manipulation
+
+📂 Project Structure
+Dice-Game-HTML-CSS-JS/
 ├── dicee.html
 ├── styles.css
 ├── index.js
-│
-└── images
+└── images/
     ├── dice1.png
     ├── dice2.png
     ├── dice3.png
@@ -32,14 +39,22 @@ Dice-Game-HTML-CSS-JS
     ├── dice5.png
     └── dice6.png
 
-🧠 How It Works
--->JavaScript generates random numbers between 1 and 6
--->Dice images are updated dynamically
--->Values are compared
--->Winner or Draw message is shown on the screen
+🧠 How the Game Works
 
-📖 Learning Outcomes:
--->DOM manipulation
--->Using random numbers in JavaScript
--->Updating HTML dynamically
--->Connecting HTML, CSS, and JS
+JavaScript generates two random numbers (1–6)
+
+Dice images change based on the numbers
+
+Numbers are compared
+
+Winner or draw message is displayed
+
+📖 Learning Outcomes
+
+DOM manipulation
+
+Using random numbers in JavaScript
+
+Updating HTML dynamically
+
+Connecting HTML, CSS, and JS
